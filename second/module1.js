@@ -1,1 +1,1 @@
-module.exports = 'masterrr!!!!!';
+module.exports = 'I am the master';
