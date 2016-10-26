@@ -1,1 +1,1 @@
-module.exports = 'masterrr!!';
+module.exports = 'masterrr';
